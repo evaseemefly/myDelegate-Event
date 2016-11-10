@@ -1,0 +1,1 @@
+E:\03协同开发\99学习\12多线程委托调用\MyDelegteAndEvent\MyDelegteAndEvent\bin\Debug\MyDelegteAndEvent.exe.config
